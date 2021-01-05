@@ -46,7 +46,25 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": -1
+    },
+    {
+      "id": 9,
+      "name": "Bowser",
+      "image": "https://www.mariowiki.com/images/7/7d/MSOGT_Bowser.png",
+      "likes": 7
+    },
+    {
+      "id": 10,
+      "name": "Pikachu",
+      "image": "https://i.pinimg.com/originals/76/47/9d/76479dd91dc55c2768ddccfc30a4fbf5.png",
+      "likes": 10
+    },
+    {
+      "id": 11,
+      "name": "King",
+      "image": "https://image.shutterstock.com/image-photo/gold-king-chess-piece-stand-260nw-1785611765.jpg",
+      "likes": 3
     }
   ]
 }

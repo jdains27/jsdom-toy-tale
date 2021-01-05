@@ -1,12 +1,13 @@
 body {
   margin: 0;
-  font-family: monospace;
+  font-family: lightblue;
 }
 
 #toy-header {
   display: flex;
   justify-content: center;
-  background: #515DA2;
+  background: coral; 
+  /* #515DA2 */
   opacity: .8;
   height: 7rem;
   padding: 1rem;
@@ -78,7 +79,7 @@ button:hover {
   color: whitesmoke;
   font-size: 18px;
   justify-self: center;
-  font-family: monospace;
+  font-family: lightblue;
   margin: 3px;
 }
 
@@ -94,6 +95,6 @@ button:hover {
   height: 2rem;
   width: 60%;
   font-size: 18px;
-  font-family: monospace;
+  font-family: lightblue;
   margin: 3px;
 }
